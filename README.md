@@ -2,6 +2,8 @@
 
 [![build status](http://img.shields.io/travis/altair-viz/altair/master.svg?style=flat)](https://travis-ci.org/altair-viz/altair)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/choldgraf/altair/binder?urlpath=lab/tree/altair/vegalite/v2/examples)
+
 Altair is a declarative statistical visualization library for Python.
 
 *Altair is developed by [Jake Vanderplas](https://github.com/jakevdp) and [Brian
